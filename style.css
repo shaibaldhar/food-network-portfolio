@@ -1,0 +1,14 @@
+body{
+    font-family: 'Libre Baskerville', serif;
+}
+
+h1{
+    font-size: 30px;
+   
+}
+h4{
+    font-weight: 100;
+}
+.deep-orange{
+    color: hsl(32, 100%, 50%);
+}
