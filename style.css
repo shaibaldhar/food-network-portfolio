@@ -31,14 +31,28 @@ section{
     width: 1000px; 
 }
 .heading{
-    padding-top: 20%;
+    padding-top: 15%;
 }
 .link-button{
     text-decoration: none;
     background-color: rgb(255, 123, 0);
     border-radius: 50px;
-    padding: 15px 25px 15px 25px;
+    padding: 20px 30px 20px 30px;
     color: white;
+    font-weight: bold;
+    font-size: 20px;
 
 }
-    
+.two img{
+    width: 60%; 
+    padding-left: 40%;
+    padding-top: 20%;
+}
+.twoo{
+    width: 50%;
+    font-weight: lighter;
+    line-height: 50px;
+    font-size: 20px;
+    padding-right: 20%;
+    padding-top: 15%;
+    padding-left: 15%;
