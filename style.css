@@ -8,7 +8,7 @@ h1{
     }
 p{
     font-weight: lighter;
-    line-height: 20px;
+    line-height: 30px;
     font-size: 20px;
     padding-top: 30px;
     padding-bottom: 50px;
@@ -50,9 +50,20 @@ section{
 }
 .twoo{
     width: 50%;
-    font-weight: lighter;
-    line-height: 50px;
-    font-size: 20px;
     padding-right: 20%;
-    padding-top: 15%;
+    padding-top: 10%;
     padding-left: 15%;
+    padding-bottom: 5%;
+    font-weight: lighter;
+    line-height: 90px;
+    font-size: 90px;
+}
+    
+h2{
+        font-size: 35px;
+
+    }
+.middle-banner{
+    background-image: url(images/Frame\ 57.jpg);
+    
+}     
